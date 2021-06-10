@@ -2,8 +2,8 @@
 
 - 🎓 I’m currently studying Computer Engineering at CEFET-MG
 - 🎓 Software developer
-- 🌱 I’m currently learning PHP, Laravel and Python
-- 💞  I'm married to the music and a comic book collector 
+- 🌱 I’m currently learning Laravel,PHP, React and Node
+- 💞  Married to the music and a comic book collector 
 
 ### Techs 
 - Javascript
