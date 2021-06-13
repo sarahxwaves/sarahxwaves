@@ -1,8 +1,10 @@
 
 ### About me
+ <a href="https://www.linkedin.com/in/sarah-menezes-6b42ab208/">
+  <img src="https://img.shields.io/badge/LINKEDIN  -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.instagram.com/sarahxwaves/"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
 
-
-<img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="sarahmenezesbraga@gmail.com">   <a href="https://www.linkedin.com/in/sarah-menezes-6b42ab208/"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/sarahmenezesbraga@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="sarahmenezesbraga@gmail.com">  
 
 - 🎓 I’m currently studying Computer Engineering at CEFET-MG
 - 🎓 Software developer
