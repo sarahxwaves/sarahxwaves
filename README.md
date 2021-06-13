@@ -13,3 +13,5 @@
 - Laravel
 - Visual Studio Code
 - Git
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahxwaves&show_icons=true" alt="sarahxwaves" /></p>
