@@ -24,6 +24,6 @@
 ![Laravel](https://camo.githubusercontent.com/730a1ebc28f37864a50a0e1984d20a38d96848272a513272f52e3e3adad90e7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d4635353234373f7374796c653d666c61742d737175617265266c6f676f3d4c61726176656c266c6f676f436f6c6f723d7768697465)
 
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahxwaves&layout=compact&hide=html" alt="sarahxwaves" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahxwaves&layout=compact&hide=html" alt="sarahxwaves"/></p>
 
 
