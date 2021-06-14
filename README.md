@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/sarahmenezesbraga@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="sarahmenezesbraga@gmail.com">  
 
 - 🎓 I’m currently studying Computer Engineering at CEFET-MG
-- 🎓 Software developer
 - 🌱 I’m currently learning C, PHP, React and Node
 - 💞  Married to the music and a comic book collector 
 
