@@ -24,6 +24,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahxwaves&hide=html&layout=compact=true&theme=dark" alt="sarahxwaves"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahxwaves&hide=html&layout=compact&theme=dracula" alt="sarahxwaves"/></p>
 
 
