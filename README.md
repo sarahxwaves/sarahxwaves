@@ -29,4 +29,6 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahxwaves&hide=html&layout=compact&theme=dracula" alt="sarahxwaves"/></p>
 
+![Snake animation](https://github.com/sarahxwaves/sarahxwaves/blob/output/github-contribution-grid-snake.svg)
+
 
